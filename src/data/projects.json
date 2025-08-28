@@ -12,8 +12,8 @@
     "imageSrc": "projects/portfolio.png",
     "description": "This is a personal portfolio to display projects and achievements.",
     "skills": ["React", "Tailwind CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://yusuf-portfolio-main.vercel.app",
+    "source": "https://github.com/mohd1612yusuf/react-portfolio-main"
   },
   {
     "title": "Eventick",
