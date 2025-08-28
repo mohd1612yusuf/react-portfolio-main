@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Indian Small Finance Bank",
+    "imageSrc": "projects/no-image.png",
+    "description": "This is a banking portal for transactions and balance checks.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "This is a personal portfolio to display projects and achievements.",
+    "skills": ["React", "Tailwind CSS"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Eventick",
+    "imageSrc": "projects/eventick.png",
+    "description": "This is a responsive UI for an event ticket booking website developed using Figma",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/proto/4XhkDdgmCjdcfRV2wgZeFN/Eventick?node-id=0-1&t=dSx8fWsSY8l1wBDk-1",
+    "source": "https://www.figma.com/design/4XhkDdgmCjdcfRV2wgZeFN/Eventick?node-id=0-1&m=dev&t=dSx8fWsSY8l1wBDk-1"
   }
 ]

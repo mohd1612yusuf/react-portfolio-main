@@ -1,35 +1,24 @@
 [
   {
-    "role": "XXXXXXXX",
-    "organisation": "XXX",
-    "startDate": "--------",
-    "endDate": "--------",
+    "role": "Training",
+    "organisation": "Cipher Schools",
+    "startDate": "June 2024",
+    "endDate": "July 2024",
     "experiences": [
-      "-------------------",
-      "-------------------"
+      "Solved real-world DSA problems.",
+      "Improved logic and debugging skills."
     ],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/cipher.png"
   },
   {
-    "role": "XXXXXXXX",
-    "organisation": "XXX",
-    "startDate": "--------",
-    "endDate": "--------",
+    "role": "Training",
+    "organisation": "Cipher Schools",
+    "startDate": "June 2025",
+    "endDate": "July 2025",
     "experiences": [
-      "-------------------",
-      "-------------------"
+      "Learnt MERN stack development.",
+      "Built projects using MongoDB, Express, React, and Node.js."
     ],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "XXXXXXXX",
-    "organisation": "XXX",
-    "startDate": "--------",
-    "endDate": "--------",
-    "experiences": [
-      "-------------------",
-      "-------------------"
-    ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/cipher.png"
   }
 ]

@@ -8,6 +8,14 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -16,8 +24,8 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "Django",
-    "imageSrc": "skills/graphql.png"
+    "title": "Express",
+    "imageSrc": "skills/express.png"
   },
   {
     "title": "MongoDB",
