@@ -4,8 +4,8 @@
     "imageSrc": "projects/PaymentZ.png",
     "description": "This is a digital payment and financial services company",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://paymentz.vercel.app",
+    "source": "https://github.com/mohd1612yusuf/paymentz-react-app"
   },
   {
     "title": "Portfolio Website",
