@@ -1,8 +1,8 @@
 [
   {
-    "title": "Indian Small Finance Bank",
-    "imageSrc": "projects/no-image.png",
-    "description": "This is a banking portal for transactions and balance checks.",
+    "title": "PaymentZ",
+    "imageSrc": "projects/PaymentZ.png",
+    "description": "This is a digital payment and financial services company",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
